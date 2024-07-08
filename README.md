@@ -1,1 +1,3 @@
 # algortimos_busca_ia_2024
+
+NOME: GABRIEL DURZYNSKI DOS SANTOS.
